@@ -1,6 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "Initial auto-updater setup. No updates available yet.",
-  "pub_date": "2025-01-13T00:00:00Z",
-  "platforms": {}
+  "version": "1.0.4-beta.2",
+  "notes": "Enhanced About Penpoint page with clearer description of the new auto-updater feature",
+  "pub_date": "2025-10-13T20:30:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmg2MTA5YW5NZGFFTFoxNmM5QTdXbllGdS9FeWZhN3JXT203V2NvTzU2Uk9CMmxXN0RKV1VFQm43N1lSczhwUlV0RUZlQkNZTVpIUzJzeC9CWklIZGtRNlY5Qk1aTndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMzg4MDg5CWZpbGU6UGVucG9pbnRfMS4wLjQtYmV0YS4yX3g2NC1zZXR1cC5uc2lzLnppcApqZjZYMWhOd0x3cHZFZ1NxemFNWDdyYnhodlRVZVFIaXpQb3FRRWF0WTd0VXJBN1UycVBWdnJmQ1VjSzVpYmJaOGFYZGtwdkcrd0lPd0ZNUHdiN3VBdz09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.4-beta.2/Penpoint_1.0.4-beta.2_x64-setup.nsis.zip"
+    }
+  }
 }
