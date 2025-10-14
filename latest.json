@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4-beta.4",
-  "notes": "Critical fix: Update checks now use global settings, ensuring reliable updates across all your books",
-  "pub_date": "2025-10-13T23:13:00Z",
+  "version": "1.0.4-beta.6",
+  "notes": "Testing the improved staged update workflow! Updates now download in the background, and you control when to restart.",
+  "pub_date": "2025-10-14T03:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmg2MTA5YW5NZFJkUXZYeXAyL3lwbzcrVlZzVUNyQnlIWlFLUlVad1pJbFFYY0toRTRBbnlVUDNzUm9UOG0ySFZtWTBmUS9VNTdoVlo2czJrTVVkdFhqMXBhUVFPd2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMzk2OTUyCWZpbGU6UGVucG9pbnRfMS4wLjQtYmV0YS40X3g2NC1zZXR1cC5uc2lzLnppcApFdDhab29PR0d6TDJQRTN0a0Jmd0JSSjJERmpyTEZ2YTNia1ozUXoreDQrK0g0dzc5OXdCK0VlT2llaFlRTE0zU1M4SzRFeGNuaEIyUDBhd2x3bm5CZz09Cg==",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.4-beta.4/Penpoint_1.0.4-beta.4_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmg2MTA5YW5NZFRzVWZGRXpiL0xsVUlleUhYVEJralpoZFo3Si9SRmRjOGx3c3dHMUtYSDcwaUltbTZJb05sNVl2V1kxTGhBcDlYUmRsbHpUSFZIQnczdDI2TkUxaUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDEwNzc3CWZpbGU6UGVucG9pbnRfMS4wLjQtYmV0YS42X3g2NC1zZXR1cC5uc2lzLnppcAo0ZGJpRjhGWExYbXBwV2RjeE01MHpvYllOZC8yNEJrN2I1YTF3eURrTDZVWFBneXVhQnhDS2k4amMxdXl2eTNvVVl3eTY5NGkwa2J2OUVkM2dCcFZBdz09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.4-beta.6/Penpoint_1.0.4-beta.6_x64-setup.nsis.zip"
     }
   }
 }
