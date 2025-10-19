@@ -1,11 +1,12 @@
 {
-  "version": "1.0.4-beta.6",
-  "notes": "Testing the improved staged update workflow! Updates now download in the background, and you control when to restart.",
-  "pub_date": "2025-10-14T03:00:00Z",
+  "version": "1.0.4",
+  "notes": "Major feature release: Smart Quotes, Insert Chapter, Export/Import Wizard, and critical bug fixes",
+  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.4.md",
+  "pub_date": "2025-10-18T17:25:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmg2MTA5YW5NZFRzVWZGRXpiL0xsVUlleUhYVEJralpoZFo3Si9SRmRjOGx3c3dHMUtYSDcwaUltbTZJb05sNVl2V1kxTGhBcDlYUmRsbHpUSFZIQnczdDI2TkUxaUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDEwNzc3CWZpbGU6UGVucG9pbnRfMS4wLjQtYmV0YS42X3g2NC1zZXR1cC5uc2lzLnppcAo0ZGJpRjhGWExYbXBwV2RjeE01MHpvYllOZC8yNEJrN2I1YTF3eURrTDZVWFBneXVhQnhDS2k4amMxdXl2eTNvVVl3eTY5NGkwa2J2OUVkM2dCcFZBdz09Cg==",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.4-beta.6/Penpoint_1.0.4-beta.6_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmg2MTA5YW5NZFIxV3p0VXJaTHlOSXBGYWJQSEt2dllTRzlpMzhvL1ZLVGhVSVJZVE1Kam5WRE1ZTTB5alIzd2Z5K2RKenlCajMxaW1CQTdSTlV1ZG1pR2lnZk9MV3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwODMzNTI5CWZpbGU6UGVucG9pbnRfMS4wLjRfeDY0LXNldHVwLm5zaXMuemlwClMrUmJ2aE9jb0ZBNWx5SDBDVXlsN2JkUGlHL2JQL1VEOFgxL2VRTzlIN3FmV1BuV2RZck9LcmdpdGVIbnJ6dVVkNU1XV010RFJLRVovSnhqVlUyY0R3PT0K",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.4/Penpoint_1.0.4_x64-setup.nsis.zip"
     }
   }
 }
