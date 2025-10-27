@@ -1,12 +1,12 @@
 {
-  "version": "1.0.5",
-  "notes": "Critical database migration fix and dynamic @ mentions! This release automatically repairs databases affected by the v1.0.3→v1.0.4 upgrade issue",
-  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.5.md",
-  "pub_date": "2025-10-20T17:43:00Z",
+  "version": "1.0.6",
+  "notes": "Interactive Relationship Map, smooth page transitions, and more! This release brings a stunning new way to visualize character relationships",
+  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.6.md",
+  "pub_date": "2025-10-27T14:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmg2MTA5YW5NZFNENnNxNjVxMnJzSzBlT1ZJczR1UlUvNk5OS2o4Q2VvYlU0T1lVaGhiNEFpdHZLeTdDTWZNYUcvZ1MrWmFKT2dwcHMrQ2JIaHh2SGJHMFlSTFRiWUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTgyMTk2CWZpbGU6UGVucG9pbnRfMS4wLjVfeDY0LXNldHVwLm5zaXMuemlwCnF6a3FicG9WZ21kOE1TdGswMXNZK2FPcFByV2grR0JxQVFZUkhyeUNZN1FFTjdjSnJRTFdyNWR5RTlUR0xRUEJ0R1ZzL0F5bWJCQ2V2TjN6akJvckNnPT0K",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.5/Penpoint_1.0.5_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmg2MTA5YW5NZFV5d1NFN0ZmckxJSk42aEJ6V295c3M3ZjRIREM3V1JOSjNveHo3Q3kxRFFYaUxzTS9Wa0ZjaTVaT0xtZzhkTHY3SGFvUEhZc3BveTh2VTdqb0M0UHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNTc2ODQ4CWZpbGU6UGVucG9pbnRfMS4wLjZfeDY0LXNldHVwLm5zaXMuemlwCjZwRVRDY1J3aStzVW5TRjlmTGd2V0IxdnNPWGxSWVBsNFh5SWFsY1hrQWtqMWsxRk42enlKWDExZHlYSStLSFM4S3BxeEROdVAvUFpIeTFObWR0WUFRPT0K",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.6/Penpoint_1.0.6_x64-setup.nsis.zip"
     }
   }
 }
