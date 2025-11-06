@@ -1,12 +1,12 @@
 {
-  "version": "1.0.6",
-  "notes": "Interactive Relationship Map, smooth page transitions, and more! This release brings a stunning new way to visualize character relationships",
-  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.6.md",
-  "pub_date": "2025-10-27T14:55:00Z",
+  "version": "1.0.7",
+  "notes": "Smooth page transitions, enhanced relationship map customization, new Items view modes, and lots of bug fixes!",
+  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.7.md",
+  "pub_date": "2025-11-06T18:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmg2MTA5YW5NZFV5d1NFN0ZmckxJSk42aEJ6V295c3M3ZjRIREM3V1JOSjNveHo3Q3kxRFFYaUxzTS9Wa0ZjaTVaT0xtZzhkTHY3SGFvUEhZc3BveTh2VTdqb0M0UHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNTc2ODQ4CWZpbGU6UGVucG9pbnRfMS4wLjZfeDY0LXNldHVwLm5zaXMuemlwCjZwRVRDY1J3aStzVW5TRjlmTGd2V0IxdnNPWGxSWVBsNFh5SWFsY1hrQWtqMWsxRk42enlKWDExZHlYSStLSFM4S3BxeEROdVAvUFpIeTFObWR0WUFRPT0K",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.6/Penpoint_1.0.6_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmg2MTA5YW5NZGU5QUhUS01UTEZDVnFvRnlFSFJuUnlvdjcyaUFBOHZ5Yzdnc1FDY2JWYlRTMDFzNXhZQi90WWFNc1pFN3JZT2hZYUJ4S3NLOTZKR1VtQmY5d2s4eEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNDUzNzUxCWZpbGU6UGVucG9pbnRfMS4wLjdfeDY0LXNldHVwLm5zaXMuemlwCjd3akQ4ekFmbXc4UDIxMnVIM3p6em9IT2xiSk9CQWQ0Z0pTOE9aRTJxSGNZMWR3a2VBYVN6LzA1SU95YXRrbjl0REhCNWt0UC9TOWt6clFIcVBya0RnPT0K",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.7/Penpoint_1.0.7_x64-setup.nsis.zip"
     }
   }
 }
