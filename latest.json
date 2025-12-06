@@ -1,12 +1,12 @@
 {
-  "version": "1.0.8",
-  "notes": "Help & User Guide system with 25+ tutorials, sticky rich text toolbars, smoother navigation animations, and critical Windows installer persistence fix",
-  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.8.md",
-  "pub_date": "2025-11-20T18:00:00Z",
+  "version": "1.0.9",
+  "notes": "Relationship Map overhaul with community detection, smarter phrase search, progressive highlighting, export from book selector, and numerous bug fixes",
+  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.9.md",
+  "pub_date": "2025-12-06T17:50:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmg2MTA5YW5NZFJOdE9uZGhOa3RmeWZGeDcxd1NWYS85TGQ0Skgwa1F5VmwvYkg2MHNCTkdFdmtsZXJHVUgxZjNzclY4NDZCalN6ZWR5dUlidEFMTHhIeDh1bytjVVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNjc5NzY4CWZpbGU6UGVucG9pbnRfMS4wLjhfeDY0LXNldHVwLm5zaXMuemlwCmhGSFpubmRFT0c4RTQrYWx2QUJ2ODBXbURZWng1NTduQ0lpbUROcyttanc5MEJiQUtxZnc0K2tDNkcrVm96VFprenZOK09RaEhUQ3V0Vi9JaUE4TURRPT0K",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.8/Penpoint_1.0.8_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmg2MTA5YW5NZGRkRGhYZ0JsK2hOY3hRMEhLanMwTnp4ZGxFMEFqVytDTWJGNUhkLy92YkV0SHk2NkZJUC9TeTRkV0RyUC8rOHFDbk1jN3BSdkNtRWd2QmZIT0V5UEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MDQzMjQzCWZpbGU6UGVucG9pbnRfMS4wLjlfeDY0LXNldHVwLm5zaXMuemlwCjc0cG5ZcnBoZURjY1VnRk52T2R6MXZscnNzYkw1amRlUFE4M3RyVEhWS3ppeTNxNW9XK2ZOTmpBU01MR2luNklEZW1ZeDhuWDA5SjQ1bFFtUTVhK0N3PT0K",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.9/Penpoint_1.0.9_x64-setup.nsis.zip"
     }
   }
 }
