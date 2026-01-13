@@ -1,12 +1,12 @@
 {
-  "version": "1.0.10",
-  "notes": "Flowstate writing mode, more export formats (Word, PDF, RTF, TXT), quick page navigation (Ctrl+1-9), reset demo book, keyboard shortcuts reference, and many improvements and bug fixes.",
-  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.10.md",
-  "pub_date": "2026-01-02T17:00:00Z",
+  "version": "1.0.11",
+  "notes": "Character profile pictures, item chapter assignments, new user onboarding with tutorials, smarter filters, sticky detail panels, clickable tags, and many UX improvements",
+  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.11.md",
+  "pub_date": "2026-01-13T19:31:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2pxREtTT0ZyV0VLQnNvL1FVNmxZTzZ0WnFZWUQzckJmYnQ1NXRTd2FqcHR3TXpiSWhpQlRaaHA3WnRxNVM4ZlBSYS9RRy9mNkdCS3RZSys0c3owS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Mzg3MTQ1CWZpbGU6UGVucG9pbnRfMS4wLjEwX3g2NC1zZXR1cC5uc2lzLnppcApkOEQ5Q1hkYktMbXI2MGJya1M1NmZKZGd4bnZTTU5aM282cSsxMXFjMHBtaFl0cGM4d2c2ckg1M0JKNHozcFhRajNpOXo2bW1iL1BqTHBTcmV0WVZDUT09Cg==",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.10/Penpoint_1.0.10_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3VvQU9UNzBSL0dnVjU5aDgxbzI4THZGWDZBTGpzaEk3WEViSEtXZGFHU0dEemFhUnBaM09QMW5VLzVoM2hyU0xNSGtmdWFIeFR3WTU4UGVCVE8rb0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzE5NDgyCWZpbGU6UGVucG9pbnRfMS4wLjExX3g2NC1zZXR1cC5uc2lzLnppcApWcUV6UUY2QjEydEc3THNkWEpCYUtGZ2crMERFbjloUVNLWXNnTFV3OXNwOTZ3Uit2QnZQbXpTQkpyNm5XZ21YOTlWY2RCSUpaeFlHRGt5Z1YyanZCdz09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.11/Penpoint_1.0.11_x64-setup.nsis.zip"
     }
   }
 }
