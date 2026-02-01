@@ -1,0 +1,16 @@
+{
+  "version": "1.0.12",
+  "notes": "Arcs â€” Story Structure & Character Journeys! Map your entire narrative with Story Arcs and Character Arcs.",
+  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.12.md",
+  "pub_date": "2026-02-01T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2pNS1lkNVZjZXB4N2daTFVhMCtSZzFON3IydXl5RTQ5WW52dVJhb241MnVabEpBVVR2R1ljSVNsNkY4eXJtOFBYN2RYZEJBSGNFZlljc25KLzRjVFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTcwNTI5CWZpbGU6UGVucG9pbnRfMS4wLjEyX3g2NC1zZXR1cC5uc2lzLnppcApydHNCYTBQRDk3SFpZL1U0TFdYbko3U0psY0RVMDJKOURGUUQ0bjJDbUFtd0ZBSGNhdzZzVDlETkJhNDRaMEFlRURmVzJFUFlGa1M1VkFjWWc1cXJBdz09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.12/Penpoint_1.0.12_x64-setup.nsis.zip"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3NrUlRYbzhhSSt1S3RCbi9oa0FDQlREOURPTkVqNk5wRVVpWHlPTmxHcG1zb3dQbWJkdUt2SWh3b1Fyb3YvU0VOcFZHSXNKelNwMXJkYlVaN1h2ckE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTc3OTc1CWZpbGU6UGVucG9pbnQuYXBwLnRhci5negp4OEpKWjQySEo3OVdUb2JBckp5SFJnYTdlYTlKZEhtL2NaVWdtTFRvWjRuTmIvek03NjlvSzE3RkdsdDdRQXM5UUFWVFF6RGJ0T2tFQ0FnNjRUZVpEZz09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.12/Penpoint.app.tar.gz"
+    }
+  }
+}
