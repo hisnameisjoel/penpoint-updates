@@ -1,12 +1,12 @@
 {
-  "version": "1.0.11",
-  "notes": "Character profile pictures, item chapter assignments, new user onboarding with tutorials, smarter filters, sticky detail panels, clickable tags, and many UX improvements",
-  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.11.md",
-  "pub_date": "2026-01-13T19:31:00Z",
+  "version": "1.0.12",
+  "notes": "Arcs â€” Story Structure & Character Journeys! Map your entire narrative with Story Arcs and Character Arcs.",
+  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.12.md",
+  "pub_date": "2026-02-01T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3VvQU9UNzBSL0dnVjU5aDgxbzI4THZGWDZBTGpzaEk3WEViSEtXZGFHU0dEemFhUnBaM09QMW5VLzVoM2hyU0xNSGtmdWFIeFR3WTU4UGVCVE8rb0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzE5NDgyCWZpbGU6UGVucG9pbnRfMS4wLjExX3g2NC1zZXR1cC5uc2lzLnppcApWcUV6UUY2QjEydEc3THNkWEpCYUtGZ2crMERFbjloUVNLWXNnTFV3OXNwOTZ3Uit2QnZQbXpTQkpyNm5XZ21YOTlWY2RCSUpaeFlHRGt5Z1YyanZCdz09Cg==",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.11/Penpoint_1.0.11_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2pNS1lkNVZjZXB4N2daTFVhMCtSZzFON3IydXl5RTQ5WW52dVJhb241MnVabEpBVVR2R1ljSVNsNkY4eXJtOFBYN2RYZEJBSGNFZlljc25KLzRjVFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTcwNTI5CWZpbGU6UGVucG9pbnRfMS4wLjEyX3g2NC1zZXR1cC5uc2lzLnppcApydHNCYTBQRDk3SFpZL1U0TFdYbko3U0psY0RVMDJKOURGUUQ0bjJDbUFtd0ZBSGNhdzZzVDlETkJhNDRaMEFlRURmVzJFUFlGa1M1VkFjWWc1cXJBdz09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.12/Penpoint_1.0.12_x64-setup.nsis.zip"
     }
   }
 }
