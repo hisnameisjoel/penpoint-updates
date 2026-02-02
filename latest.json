@@ -1,11 +1,11 @@
 {
   "version": "1.0.12",
-  "notes": "Arcs \u2013 Story Structure & Character Journeys! Map your entire narrative with Story Arcs and Character Arcs.",
+  "notes": "Arcs – Story Structure & Character Journeys! Map your entire narrative with Story Arcs and Character Arcs.",
   "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.12.md",
   "pub_date": "2026-02-02T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3RQd1UzKzFOMU96Q0RUQlY0RE5IWEwvUWQ4eXNlNTdzV1dBRlMxSFJsV3VuZ1o4dm1KYm5ic2ZvRUFScXhibjJac0FQOUErZ2Q3UU95SStnbjdmbVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDYwNTM5CWZpbGU6UGVucG9pbnRfMS4wLjEyX3g2NC1zZXR1cC5uc2lzLnppcAorbkRyb29mSHU1RG1EWXMrcmZOUldOQWNON0EwNWUrdnFnZUU1U0dRQU9mRm1lNHAzOVEvWnJtK1NpSlkrTkdOYSsrdk1jTlhFS0NZWVh4YVE0cEREZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3UrWWtNWmpiWTB0eDRJZVlLTytEUm85K0ZtMFZMZ1lKWGlGOTVZc1ZkS1g4bWZMWUp5SnQrNG9OTFIxZzRHT3pqWXhONERjemRaNDFxQmEwak1RcEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDcyNDAyCWZpbGU6UGVucG9pbnRfMS4wLjEyX3g2NC1zZXR1cC5uc2lzLnppcAozaERlbVh0RmlZME1GS2IvUUxTdVhqWXpjd2JCNStpemI5OVdTb3ZUZHBHSTdRWHRKWnpXcGFhNDB4WjZydzF2RENQalVWdkF1UkRjUERLMi9KblNBUT09Cg==",
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.12/Penpoint_1.0.12_x64-setup.nsis.zip"
     },
     "darwin-aarch64": {
