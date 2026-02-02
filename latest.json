@@ -1,11 +1,11 @@
 {
   "version": "1.0.12",
-  "notes": "Arcs — Story Structure & Character Journeys! Map your entire narrative with Story Arcs and Character Arcs.",
+  "notes": "Arcs \u2013 Story Structure & Character Journeys! Map your entire narrative with Story Arcs and Character Arcs.",
   "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.12.md",
-  "pub_date": "2026-02-01T12:00:00Z",
+  "pub_date": "2026-02-02T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldURXBoRDl0dWhDR2pNS1lkNVZjZXB4N2daTFVhMCtSZzFON3IydXl5RTQ5WW52dVJhb241MnVabEpBVVR2R1ljSVNsNkY4eXJtOFBYN2RYZEJBSGNFZlljc25KLzRjVFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTcwNTI5CWZpbGU6UGVucG9pbnRfMS4wLjEyX3g2NC1zZXR1cC5uc2lzLnppcApydHNCYTBQRDk3SFpZL1U0TFdYbko3U0psY0RVMDJKOURGUUQ0bjJDbUFtd0ZBSGNhdzZzVDlETkJhNDRaMEFlRURmVzJFUFlGa1M1VkFjWWc1cXJBdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3RQd1UzKzFOMU96Q0RUQlY0RE5IWEwvUWQ4eXNlNTdzV1dBRlMxSFJsV3VuZ1o4dm1KYm5ic2ZvRUFScXhibjJac0FQOUErZ2Q3UU95SStnbjdmbVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDYwNTM5CWZpbGU6UGVucG9pbnRfMS4wLjEyX3g2NC1zZXR1cC5uc2lzLnppcAorbkRyb29mSHU1RG1EWXMrcmZOUldOQWNON0EwNWUrdnFnZUU1U0dRQU9mRm1lNHAzOVEvWnJtK1NpSlkrTkdOYSsrdk1jTlhFS0NZWVh4YVE0cEREZz09Cg==",
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.12/Penpoint_1.0.12_x64-setup.nsis.zip"
     },
     "darwin-aarch64": {
@@ -13,7 +13,7 @@
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.12/Penpoint.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldURXBoRDl0dWhDR296L0VZY09sRHZvUXdmRkxaUy90NFduOS9wZzVEdEwrYjVsZVFUNEJuU1YwOGh0VzZad3RoRjBnTnNoUExDQlpFYWx4QTVyd2hRbFExNzB2QXNNMmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTg3OTM3CWZpbGU6UGVucG9pbnRfMS4wLjEyX2FtZDY0LkFwcEltYWdlLnRhci5negpsOXlvbitZRVFKM1R1SzczQk5hVG1HVmNGbnZKYTBsZXY2U001YWx1MmVpN3psUEJUSTJzcGRZc0UzbjFwb000Rk53NXNHL2hIeGJvUVg2aDVteFdCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldURXBoRDl0dWhDR296L0VZY09sRHZvUXdmRkxaUy90NFduOS9wZzVEdEwrYjVsZVFUNEJuU1YwOGh0VzZad3RoRjBnTnNoUExDQlpFYWx4QTVyd2hRbFExNzB2QXNNMmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTg3OTM4CWZpbGU6UGVucG9pbnRfMS4wLjEyX2FtZDY0LkFwcEltYWdlLnRhci5negpsOXlvbitZRVFKM1R1SzczQk5hVG1HVmNGbnZKYTBsZXY2U001YWx1MmVpN3psUEJUSTJzcGRZc0UzbjFwb000Rk53NXNHL2hIeGJvUVg2aDVteFdCZz09Cg==",
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.12/Penpoint_1.0.12_amd64.AppImage.tar.gz"
     }
   }
