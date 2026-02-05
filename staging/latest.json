@@ -6,7 +6,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2xrYTR1Ny9Hc3F0ZXlQK2VTbWo5TXBJOERlYUQ1WE1QSzlEa0dJeCszM0YwRW9hbENsUisyNUxzTWI5SnltZHlxelZ4TUNMUHRndDdDdGN3eHF3eWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMzE4NjY3CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjAuMTNfeDY0LXNldHVwLm5zaXMuemlwCmF0OW53UERQeVczYVQ3NGJVOEJZV083L25YUVpINU0veUxjUGRrUFZnU3JhbndSTEdMdEVKS3JpK2dZYVhSNEVJRWd0MGo2VTVkVllhc21XNW1sNENRPT0K",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.13-staging/Penpoint%20Staging_1.0.13_x64-setup.nsis.zip"
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.13-staging/Penpoint.Staging_1.0.13_x64-setup.nsis.zip"
     }
   }
 }
