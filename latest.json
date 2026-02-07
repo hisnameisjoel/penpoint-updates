@@ -7,6 +7,10 @@
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2d6bHA4N2VjYWhKREMxSjRTM0tsUGFRUTlta2poQUVOMXhKYjFON0VpTVBRU3VkZEtpY05EeUZWeFNVQUVzRXBjbEtJWmRhajNDK014cjBjTkhLdkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDQ5MDQzCWZpbGU6UGVucG9pbnRfMS4wLjEzX3g2NC1zZXR1cC5uc2lzLnppcApRUGNhQ3lPVjVQRW04bHloblJnQm1ZVXpQT3BoSWwwZHFHOHdjOHdXWG1TNVlvSWREemE5LzFOQ1hrZ1lSVXYzRGlLVU13REROKzduVmpJbmpvVmdDZz09Cg==",
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.13/Penpoint_1.0.13_x64-setup.nsis.zip"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2w4MExEZlFBR1hoTjd4cVIvY1Y2MllMV3NDOGdITkE2Y0JXNTBVS1BXZjUxMjl4azl1YmJvTTZkaHZXelJOeW5nVnRucnNLWjk4Q3BXeHkwMjJIWXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDUwMTY4CWZpbGU6UGVucG9pbnRfMS4wLjEzX2FtZDY0LkFwcEltYWdlLnRhci5negp1M0Nodlhac0Zpek0wQXpFKzRiK2pNRHN4NnN3YzJwYkJmOFBZSzNPUGROYllJQlVpSDNRY010MmtDSWdMdzFOaVJIYVIyOXM4VnJvU2U3dm5MN3NDdz09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.13/Penpoint_1.0.13_amd64.AppImage.tar.gz"
     }
   }
 }
