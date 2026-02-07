@@ -2,10 +2,10 @@
   "version": "1.0.13",
   "notes": "Testing v1.0.13 release - update flow verification",
   "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.0.13.md",
-  "pub_date": "2026-02-07T04:24:02Z",
+  "pub_date": "2026-02-07T05:36:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR245Q2l5TjkwTkZXRnNYcDFiaS9Xalp5Q3JXM3FSU2c1Q3pUWW02Vk5SZ0xKS1ZnUjRiRXRPdGxMaEowMDM3ZkJlamQvSEJlL3JHbm5DUGY2TjRxZWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDM2ODE5CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjAuMTNfeDY0LXNldHVwLm5zaXMuemlwCnlsSExBbmRXbEN2WU81VU9GTG9yVGxEajdpQW55cFZmK1pRakxreTBFN2VkVWwvSkF0SUpsNXEvMFJYbWFCTHlhWWp2ZjNGT3RXQjJhbFZKenpMNUFnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2pXYXVmTHVoaWJYUmJpekx4MW9rd0ZGbjllS1I4RGJBckRSZCtCVmY0cnBKVW1zcG5SN1Vld1BVa0dqblQ0RzV1T0lBOG1lK2NVbndUcTMxZFRPUlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDQyNjE4CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjAuMTNfeDY0LXNldHVwLm5zaXMuemlwClBqY05oUUZkbWxvbzNrZW9ZR2FKeHdQV3BuSnVMRHhuMVo3SmxOT2ZHSVZjcXhDeCtNc1haaU4yVmxmbStTNUs2WWdLQzNLZDlqaGM4Wlk5NkhCbEFnPT0K",
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.13-staging/Penpoint.Staging_1.0.13_x64-setup.nsis.zip"
     }
   }
