@@ -13,11 +13,11 @@
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.13/Penpoint_1.0.13_amd64.AppImage.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3R3b01XRjZ4MGx2SzBMVlh1Z2ppYlByRlFJaTVETXYzQlJLQzd6R0lJK2V1TzZ6M245T3ZtYThaN2xWd3JScmhId2VPNjRvMlhiQkVxQTJEbE4wcEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDUwMzg5CWZpbGU6UGVucG9pbnQuYXBwLnRhci5negpVNW5Hak91RlhhSTBKcVE3ZmJMNkgzdEtPUklLNlhjc2JHVG96dkVyRE11YXMzdFhBYUgrZFBlZHNXdDJMWnArREVvTnpZMUdVeWZGeGhvYlZKVXNDZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3M5SnNadEkrVGlFWVdIUDc2MnlzR21Fanc4OE1QdU13ZlJaT0RIQVpkaDVuZlF1b1pkUU1uR3NOVTQzVlQ0dXZBSkRKcXA0QkpZS0xGekRYVWNWOVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDUzNDI1CWZpbGU6UGVucG9pbnQuYXBwLnRhci5negpEclZDM1kxQWNxSFB0MThnMlpkb2Fkbm9DQlhFRkNtNVFVRCtOVzNSZFBqQzlpL2hDSVZPRFVMMmVFSU1nZ3BtbVlvNTlRTFB4YkdpOGE5VzBFY3BCUT09Cg==",
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.13/Penpoint.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldURXBoRDl0dWhDR3ZCZTIwMkxSUVNZaFh4K0FvRW14VzQ5bE1ENXZmeFkycWpRckNTUVpmTnhMUHU5RklJdmViY2pPdXNTTFMxZFRLVWhVdlIvQ2trekpRZTFyMDFwS1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDUwNDAxCWZpbGU6UGVucG9pbnQuYXBwLnRhci5negp5cHJTU01GM0prcnEvNzA0NnBMc2VQSGlkSnJrVlE5dGUrbmx4U1hJOXlFVThZQVVUbGhINlIzTVRtak8wYzlsQ3R4aUpBZmMwYWtrNkUrREVVYWJCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3NEcCtjbGNkQklJWHNIVzNkc2c1ZTJOOUdpNElKV243Wm9ETHdRVFhhZ2owZGhJRW9MRHdONGNGN1RHWFJPeEpTenE3ZS90MFl6b0RETFhrUTUvNGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDUzNDI5CWZpbGU6UGVucG9pbnQuYXBwLnRhci5negpQdmFyaDluQ2F3UlNGNmlFbjdtbWFUQTRTbXpTR3lQaFdBTWRQMGxBb2RpcG9VbURYMVVoOTJxRmRaWkRRQis1UzN5U1BndHk4ZEtBdk5LdFp5T2dCQT09Cg==",
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.13/Penpoint_x64.app.tar.gz"
     }
   }
