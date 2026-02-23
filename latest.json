@@ -1,24 +1,24 @@
 {
-  "version": "1.0.18",
-  "notes": "Manuscript Mode, Chapter Groups, Activity Tracker, Community Stats, and 30+ improvements and fixes",
-  "pub_date": "2026-02-21T08:10:39.393Z",
+  "version": "1.0.19",
+  "notes": "Find & Replace in Manuscripts, Searchbar prose search, plain text import, and many bug fixes",
+  "pub_date": "2026-02-23T02:29:25.899Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3NRek9Hek1HNVhGTlJvcGhta0YrRlpXNm81UUpVY3NsLzhXa1IyU0xGci96bWFPZlIrdERlVDVjM2tYd3J6aUJjNk1KN1VqMjh6ZmtVbGhjQ1gxL3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjYxMzk3CWZpbGU6UGVucG9pbnRfMS4wLjE4X3g2NC1zZXR1cC5uc2lzLnppcAo0bkpUUkNVNmgxaHZSK2lrcFI3M1J2NUVoa3d5Z21jQmZlWWpkRm93bEU5c0ptSWZSQUU0Q3dvODEwdnZOSDA5YlQ0NUI4eG5VOHdTUVJIUVRsbVZCdz09Cg==",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.18/Penpoint_1.0.18_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR29SVzVvUHNOaXJhRnV3WVNzNGpGcUorTnU2WEZQN3dJR3JkWXBKd1lWRUpqVkhpRVdVMmRKa29UQ2dDY0hCY3EvWkRXb1hKd1JDRi9sakhqQmRCY0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxODEzNjkyCWZpbGU6UGVucG9pbnRfMS4wLjE5X3g2NC1zZXR1cC5uc2lzLnppcApkeFdTL1Y1NjhVejhGTHVRTTZuSzBLVEh4OTFVNkErVEN5NU1NNVZmdTRqZWNxSHZ5RC9kRFliK042QW1tanA0NTVnSmd3TGI5WDdxOVgyRjdEQlNCQT09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.19/Penpoint_1.0.19_x64-setup.nsis.zip"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2luNjBIN2lCaG5JRnVSb3Nuc00wWUloYnlzc21qYkU2UFV0Y1hwdC9lWFc5bDE5VjI4MURqajFrZnFSN0dLY0l0TW13Nm10dzhZSktKbTJaTmVZcmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjYwOTg4CWZpbGU6UGVucG9pbnQuYXBwLnRhci5negpqaWJKWCtzaDFJM0h5WFRFUncvZEh2aWJkOFVSWXJqWTVlV1doSVRiNGt4VG1tcnptbUxEUDl6RDE1aGErOUVHbEJYcWF0aDAvUzFXSHg4bXFyZ1dCdz09Cg==",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.18/Penpoint.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3E2NFlSRWkwcm5ZN0tQM3B0dXhteGY3WWw3TE9nMllJeUUvQlNNbUFoV01xQ2JHQlhJYzBSYjVNZGhSUXFLbDZWOC9TdjZCT09RbVpRbDN1c3JNZVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxODEzMjI3CWZpbGU6UGVucG9pbnQuYXBwLnRhci5negphNlh1Wi9RdE1CNHg5UzJZTVp0V2xnM29wamhzWTBDTUFYcFUyUWxEWDh4K2F5cmlUdElyMmo4eVRMcDg5OTJrSGhwd0wxdm9xWVhpWXRmNjNuK25CUT09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.19/Penpoint.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2lGbVRjN3BCeS9ZckoyNG1ja3I2OW1OaUwvdkJ2L0M2eE1pLzlIZ0hTMDV4QlV5bkZVMkhxam1Ec1o2ei92Y0JKQUJ4dDUrNkxoUTFwVGZFS1g0YlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjYwOTk1CWZpbGU6UGVucG9pbnRfeDY0LmFwcC50YXIuZ3oKaVc3cHhXRVJiRFd5TXNJMFFhQU5wN0xNdmorRmV2YmQ0TWtueXQ1aENPNEgybE0zTklNSWV2R3dISS9heE84TWpvbEJtM040NmEvc2ZwU1dWUk9rQUE9PQo=",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.18/Penpoint_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2w0Sm9wejJGbEdjN0hUL3lzREJNSWUxdFo2STh3VnNFbm5XRExCR1RjcUV4VnA5VzhrV1J0SHVjdFZteG1TTVA1ZUtGcUczNDhtNUhnYkxIMzJ0OFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxODEzNDU3CWZpbGU6UGVucG9pbnRfeDY0LmFwcC50YXIuZ3oKcFEzVGJRQzJUeW4raVpackF2NGlvVGl1YW9XRSs0bUJnN0NiWTBQMVRyTXJockhBVm5jSDlxUWNLRkEwYUdxNFliQk9MaFZRN29yMUN3NTBpZGUvQUE9PQo=",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.19/Penpoint_x64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3IraG5SZGN5RGxWYVNpTmRSQklYeTJBbkw3dDVTQ1pBZXowVk51ZW54ZWd6MmF3TkpwTFRGVExaVnpTcHlDOEFOVXlhK09CVUxzU2VFQUV3RU9pM1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjYxMDc1CWZpbGU6UGVucG9pbnRfMS4wLjE4X2FtZDY0LkFwcEltYWdlLnRhci5negovb1hZZGtOeWtvak44d0x1ZS8zOUlxYmVHYVFGSHlVcFZKWGxZQzVGak44M2JvT01MNVJpWVYrYlpVb240aDZPeHE0TjVnTWpRaG9DVnRTTmo4ZWJDZz09Cg==",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.18/penpoint_1.0.18_amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2wxMldWUDhNdmpuUlhRbU1VU2htOHVpSVpVZnpIUEx6OUVTT080ZjdWN1lLVkhUS25RNFZMUEFZNmswNmNQbVNNOUZDdnUrRTQzQ21EL1VHSjU2ZkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxODEzNDQzCWZpbGU6UGVucG9pbnRfMS4wLjE5X2FtZDY0LkFwcEltYWdlLnRhci5negpXeSsydVIzeUh4M3RXUCs5ODJtdXlDYnpaU2RzL09pT09YVEo3MlpJV3hCamJseEdKaVJXUDMwYkc0YmZId2Z6ZFg1QWtGdy9rUnh2T1VVY2NCcitDZz09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.19/penpoint_1.0.19_amd64.AppImage.tar.gz"
     }
   },
-  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.18.md"
+  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.0.19.md"
 }
