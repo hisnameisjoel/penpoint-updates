@@ -1,12 +1,12 @@
 {
-  "version": "1.0.18-beta.2",
-  "notes": "Staging beta 2 for testing",
-  "pub_date": "2026-02-21T06:46:55.348Z",
+  "version": "1.0.19-beta.1",
+  "notes": "Staging beta 1 for v1.0.19 testing",
+  "pub_date": "2026-02-23T01:38:33.212Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR29HenV5MGh0djM2bnhWM21UaHdobjNtRDBjRVJ0bFVDVTd2dWlnWDk5Z0s3dzNEKzBiN3Qxc1BYVndwVVU5ZzBrWWxBQk5BQXNUWHdDbVI2bzFnS3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjU2MjY5CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjAuMTgtYmV0YS4yX3g2NC1zZXR1cC5uc2lzLnppcApuaXZ6VDVPSXo0eXlQVE5RQTR5NVBudnFZVEdicjhORzZ3TkxndzhzMmxOMVNLL0Vrd1JsNnB0R0RqREZTbWxIeC90bkFxN1lsazFYazVMeTR1VnZDQT09Cg==",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.18-beta.2-staging/Penpoint.Staging_1.0.18-beta.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2dXOEp4S0Y4V21rb0xXUmNJNDJDcXBhYk1WaStxYmE0K0Q3VnhwU01UbUdsWm1rUXppZy9oZWJlaXRlUU4rMXM0MEtqa0lTa0ZHVGovRE9Rb0dqV2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxODEwNTI5CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjAuMTktYmV0YS4xX3g2NC1zZXR1cC5uc2lzLnppcAovMmRFdDBjK3hJVHk2RTFZcklmMUw1ZXY2Y2w4b3IxbEN1ZlpxNTVUYm1iNVJZQTlqSUpYMzBjbXZ0UlVVd0J6U1lwSjFIdDRDeEpvM004WTVPRW9DQT09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.19-beta.1-staging/Penpoint.Staging_1.0.19-beta.1_x64-setup.nsis.zip"
     }
   },
-  "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.0.18-beta.2.md"
+  "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.0.19-beta.1.md"
 }
