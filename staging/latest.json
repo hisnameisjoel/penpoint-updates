@@ -1,22 +1,22 @@
 {
   "version": "1.0.21-beta.1",
-  "notes": "Staging beta 1: TipTap v3 crash fix for macOS, search index fixes",
-  "pub_date": "2026-03-03T04:03:17.185Z",
+  "notes": "Staging beta 1 for testing v1.0.21",
+  "pub_date": "2026-03-04T07:39:31.705Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2pBdlNZVXZWWE5HMDE3UjR2Z1VGRkh3alp3TUh6VzV6QnRGK0w5VjJPK0poNWgySU1mYS9rVW83V2szQlNIaWM3bmlMUXErdlluT0RqcUpFbStEdUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTEwMzkzCWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjAuMjEtYmV0YS4xX3g2NC1zZXR1cC5uc2lzLnppcApidGxEcWNYRnlyNDdXdjhLTS9ZeDNsaytiMVVjQ0NTdXhwYjhZSW9tbHBJamtNSGxrck1NUzU1endPZ2hTSGtsWVlGTHd1ck1RRTZsRFE2MWE0clBCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3JwYXdXM1d0UHBnRUp3Rk5IT2w5V3c2ZTZiOUgzSjZyZ2ZXcDBYTjNjL3dTRU04TE9Bc3dFdW5LZHY2VG9MUEF1OWxXeEwxeitKbFdGczkyWnRoWmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjA5ODk5CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjAuMjEtYmV0YS4xX3g2NC1zZXR1cC5uc2lzLnppcAp6WWY0aVhGK0cyQklpVUIrSXF1WGtNUEc0OVhodHNkUWdPeTdwNWtTVlZvSVQ2eU5WcDduOFJVaXEvSXpwRm41SDNkN3NmYmVqQXJ4eXVkRHlwRnlEdz09Cg==",
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.21-beta.1-staging/Penpoint.Staging_1.0.21-beta.1_x64-setup.nsis.zip"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2hMeTZ4UkhYb3R0MEVZS0hoRWQyeWtpWGVxVW5SY0F0c3JZbmp5VGxlWk5DTzEvM3lLNXFRVWJJNlhLL3AxaXJScVpqanFEV1B2LzErVm5NbnhMa3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTA5NTkzCWZpbGU6UGVucG9pbnQgU3RhZ2luZy5hcHAudGFyLmd6Ci91QlNDSUZYWGJJSWdTUXc3UUViaFNtTU5lU1JOaDlTRWcvaExlcklVejZmdmFxN3lsTTE3NEphWVh2L2RpTGFET1hiMk9ZUWdPa3dhU0xCT0ZnaENRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR29oU1VFakN4d0FhNXhmRHB0cm9jamtHQmxtak1nU3ppUmhERTYwUFNKaWNNLzMzT2o3ZVV4bDMrNFBrSTdpTXFFU2xFRFZ4S2FSUE9WU28zMVN4Y1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjA5NTgzCWZpbGU6UGVucG9pbnQgU3RhZ2luZy5hcHAudGFyLmd6CkFRMGJFSHk0eEFYeTRZbzZyemM0VjhpUktNSVBmN25PeEE2OWpNckRKTG4wdkJ3bVJJaU9kdGNEY3JMcnduQkhSRWpuREhEUlFtYzBTdG5JTVFUVkR3PT0K",
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.21-beta.1-staging/Penpoint.Staging.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR21CQ1doMTM3UitiRUVrSVhXaEU5ZE40WWVwci9OZnhoZkcxa2V6SzExMlJLM0d6Y2xEMXorMnBEMjZtMkJSUmdjUjlGSkxVVDJHS0NxUVYxN2E1OGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTA5NzMyCWZpbGU6UGVucG9pbnQgU3RhZ2luZ194NjQuYXBwLnRhci5negpvVFZiWk1Qa3VGNkNaRVJOSCt0Q3BOYlhFdWNtOHduVTdaL0MzUUxaRWdTNDlPRHFUMFVGWThtY0NVeDg1QWV4bjJHQXhXcEZKNzhiVTFRQ0NlVTlEZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3FVays0UmxwbEZ2ajhBNUFHdEhXSWZhQlk3S3IvbVVBWjBtMzVFSHR4Z205SEdZdmFXUU4xMkEvMWlacEo0Ym92d2FoMUtzcDNGUXMxT3p1dHlBOGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjA5Mzg4CWZpbGU6UGVucG9pbnQgU3RhZ2luZ194NjQuYXBwLnRhci5negpLUnNkdTdpTUpqQTgrc1BxMzRidEJQWUJUNVQra1ptek9ka21id2tVVURveGlkeVdKbEtlRlYyalVOR05VbkcxQThUUm5SSUoyMkYrMGxjQktWOHlEdz09Cg==",
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.21-beta.1-staging/Penpoint.Staging_x64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3NnMXZQditob2cyVWRsdC9BTHZZTXh2TitLNVBFUVdEaHZBOEVQWXMxVmVUaHhTOUFzZWlrU0wrTUtteDVoQ3hpb0hJajlmajczMDU3d3grVlErNHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTA5ODg1CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjAuMjEtYmV0YS4xX2FtZDY0LkFwcEltYWdlLnRhci5negpRRGhlendScjg5R0tTK0I5REpzbEh6VEs5YTQvNXdubVhYQjR6aXVZb1lnSXgxVjh5MXRMNkRMS0QyeTJZd011aGw5RmhaMytza3ZSUGZ4MWtQOGdCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3BucUoyK3Q3MUJIZFRFTFZneDZUdytEeWd4WUNxbHhUdFh5SS9VcUZYNzlxWndyaVg1M3ZCQ05DWFdsWjZXZDNYM3VpcHl0ZU82Ukx1MlVRdUllaHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjA5NTI5CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjAuMjEtYmV0YS4xX2FtZDY0LkFwcEltYWdlLnRhci5negpSU1p2anliV1NVT1F0U0hLSUdrTnR3UnpKbVFidi9SVy9WT21hQ3BHQzBlcTJLdCt6MWFMQ2NBdUZ6T1IrMmZ4ZCtUTFMyQ1RxdnV6L3oxN2VMTDBDUT09Cg==",
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.21-beta.1-staging/penpoint-staging_1.0.21-beta.1_amd64.AppImage.tar.gz"
     }
   },
