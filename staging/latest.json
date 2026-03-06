@@ -1,12 +1,12 @@
 {
-  "version": "1.0.21-beta.2",
-  "notes": "Staging beta 2 for testing",
-  "pub_date": "2026-03-05T22:18:08.142Z",
+  "version": "1.0.21-beta.3",
+  "notes": "Staging beta 3 — testing Windows code signing",
+  "pub_date": "2026-03-06T21:47:12.657Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR25oczcxSDVEWnRQNGxjdnFGM0FtazlPSjVKbnhvWHExZEszNTN2RHQ1eWd2dXIwVzU1VVM5MlJoclU5elZDRXp6T0h1dGwrTHl2QldwcEszRkRCMEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNzQ4ODg1CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjAuMjEtYmV0YS4yX3g2NC1zZXR1cC5uc2lzLnppcAo5QVFSN0pJYkxkSS9zSmRRVENUYTlId29PNlNTU29kcXNITEl5TE9uU1JZVmxNbzYvaUlTOHhSZ3F0MExzbU1mcEhlc2hFZktSNWdQVnphb0J2Qm1DQT09Cg==",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.21-beta.2-staging/Penpoint.Staging_1.0.21-beta.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3RNNVhvenhsa0RCcDFWc3JUSUdxei9YQld6N0dFY1c4U2NWbXNieWpXMzRKK1IwMDFvbVN6c25kYVF0bnAwWHp1UHFack03L2xsM01La21KZHdkdXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODMzNTg2CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjAuMjEtYmV0YS4zX3g2NC1zZXR1cC5uc2lzLnppcApKZFJWV1VGOVZ0cG1JV2VKUnIySm10L3paS3ZObi9oUElUOVhqV3hKTEFQQVNzMHU4aGUrTXRuSGlaQWVrOCtYcUd3KytWNnJVWmFtSzlKSkxPNENBQT09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.21-beta.3-staging/Penpoint.Staging_1.0.21-beta.3_x64-setup.nsis.zip"
     }
   },
-  "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.0.21-beta.2.md"
+  "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.0.21-beta.3.md"
 }
