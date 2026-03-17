@@ -1,0 +1,12 @@
+{
+  "version": "1.0.25",
+  "pub_date": "2026-03-17T07:06:00.507Z",
+  "installers": {
+    "windows-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.25/Penpoint-Trial_Penpoint_1.0.25_x64-setup.exe",
+    "windows-aarch64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.25/Penpoint-Trial_Penpoint_1.0.25_arm64-setup.exe",
+    "darwin-aarch64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.25/Penpoint-Trial_Penpoint_1.0.25_aarch64.dmg",
+    "darwin-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.25/Penpoint-Trial_Penpoint_1.0.25_x64.dmg",
+    "linux-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.25/Penpoint-Trial_penpoint_1.0.25_amd64.AppImage",
+    "linux-deb": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.0.25/Penpoint-Trial_penpoint_1.0.25_amd64.deb"
+  }
+}
