@@ -1,6 +1,6 @@
 {
   "version": "1.2.0-beta.1",
-  "notes": "Beta 1 for v1.2.0 testing — Calendar system Phase 2, Scene Layout, Custom Calendars, Moon Images",
+  "notes": "Beta 1 for v1.2.0 testing \u2014 Calendar system Phase 2, Scene Layout, Custom Calendars, Moon Images",
   "pub_date": "2026-04-25T00:52:49.149Z",
   "platforms": {
     "windows-x86_64": {
@@ -21,7 +21,7 @@
     },
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2tQZTR0QjBGQ2dJQ0pyelJjL0tXWENsRTExTi92OVBkNjZObE5OZWE1ZVJrNlU2dkVDaVM4cHRKc3FnVUdEU3V4UFlTK3ZSLzhXVzZxelJJQ1ZmZUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDc1MzY2CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjIuMC1iZXRhLjFfYW1kNjQuQXBwSW1hZ2UudGFyLmd6ClpxdFMwYTZUOHU2dzZuUk8xMk1tbnc1dllmMkZhWXpDZlEzSmgyc0tOSUVwT0RmYk9QcXVKTTZuWGk1VmpVTFhHZXNURmoybW1NVExOa1FtQ3pXYkRBPT0K",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.0-beta.1-staging/penpoint-staging_1.2.0-beta.1_amd64.AppImage.tar.gz"
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.0-beta.1-staging/Penpoint.Staging_1.2.0-beta.1_amd64.AppImage.tar.gz"
     }
   },
   "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.2.0-beta.1.md"
