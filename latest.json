@@ -24,5 +24,6 @@
       "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.0/penpoint_1.2.0_amd64.AppImage.tar.gz"
     }
   },
-  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.2.0.md"
+  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.2.0.md",
+  "revision": 1
 }
