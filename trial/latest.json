@@ -1,12 +1,12 @@
 {
-  "version": "1.2.0",
-  "pub_date": "2026-05-04T19:58:53.750Z",
+  "version": "1.2.1",
+  "pub_date": "2026-05-11T03:27:35.314Z",
   "installers": {
-    "windows-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.0/Penpoint-Trial_Penpoint_1.2.0_x64-setup.exe",
-    "windows-aarch64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.0/Penpoint-Trial_Penpoint_1.2.0_arm64-setup.exe",
-    "darwin-aarch64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.0/Penpoint-Trial_Penpoint_1.2.0_aarch64.dmg",
-    "darwin-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.0/Penpoint-Trial_Penpoint_1.2.0_x64.dmg",
-    "linux-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.0/Penpoint-Trial_penpoint_1.2.0_amd64.AppImage",
-    "linux-deb": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.0/Penpoint-Trial_penpoint_1.2.0_amd64.deb"
+    "windows-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.1/Penpoint-Trial_Penpoint_1.2.1_x64-setup.exe",
+    "windows-aarch64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.1/Penpoint-Trial_Penpoint_1.2.1_arm64-setup.exe",
+    "darwin-aarch64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.1/Penpoint-Trial_Penpoint_1.2.1_aarch64.dmg",
+    "darwin-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.1/Penpoint-Trial_Penpoint_1.2.1_x64.dmg",
+    "linux-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.1/Penpoint-Trial_penpoint_1.2.1_amd64.AppImage",
+    "linux-deb": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.2.1/Penpoint-Trial_penpoint_1.2.1_amd64.deb"
   }
 }
