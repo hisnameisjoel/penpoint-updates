@@ -1,12 +1,24 @@
 {
-  "version": "1.3.0-beta.1",
-  "notes": "Staging beta 1 for testing (SAC gate fix)",
-  "pub_date": "2026-07-10T01:29:14.483Z",
+  "version": "1.3.0-beta.2",
+  "notes": "Staging beta 2: enables the Series feature (beta.1 shipped it disabled).",
+  "pub_date": "2026-07-10T17:26:11.639Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2xnZDh1TExVSG1oTWFLTCs4ZkFaTHZPZ1Mvbi9HV3h6djdROVp0N25LOEZlSTgxNTA4cFBkK1VUSU5Zb21uNjliOVR3QjI3UnJDYTR3S0lVUXEwbmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjQ2MzUzCWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjMuMC1iZXRhLjFfeDY0LXNldHVwLm5zaXMuemlwClFBYjlCWGI3VzFnWGsxSzR4bjg5MnFTNGNYMFBnUHZsc1k0LzdFS0dlSDE1d3ZFVEh6UUdSSndCTittYTIzTmovakxOU0FxVytCUTl6d1pheHdPZEF3PT0K",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.0-beta.1-staging/Penpoint.Staging_1.3.0-beta.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2kxdjN3dFIwUnNzc3daQVN6UWxMUVZYSTlsSWcvbXFuRGowR3hDeEY2YWY5YmphSUEzWlNveThNVVJqWnVqZVo3RVhKRlkyb1FsOWVLZlkzUFNYeFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzA0MzI5CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjMuMC1iZXRhLjJfeDY0LXNldHVwLm5zaXMuemlwCjluZWtuU2xualB0YlJBc0N2WTdVbThwVWg5RGVmUWpURWVCbDkzendYVVMvWE8zYkZtK0JtRFdILzRnQzlydWJXbkhuelJ2RkhGb3dITEcvdEFsbEF3PT0K",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.0-beta.2-staging/Penpoint.Staging_1.3.0-beta.2_x64-setup.nsis.zip"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3NiN3JuQmFBMXcyYlJnS0FYSlE5K2FMWmtRUVZYS1MxL05zZDk0Ri9PdUxxUzU2ckpHVFpRR3FXa1dudmVIaDg0TXNveE83NEtJNHBKNnlZb3JYaVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzAzOTY1CWZpbGU6UGVucG9pbnQgU3RhZ2luZy5hcHAudGFyLmd6CkNEK0lnQlFuelBlTXZjNG10NjlHc1NHc0VrVzRScUg3NXdOTkJxZkJRanJ2ZUMrMmRoVkpuRUZKWGR2Tmwxa2VPSk1iM2ozVlhpWTJOMk4yWTIwNkRnPT0K",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.0-beta.2-staging/Penpoint.Staging.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3NIb0FhZjRHcmtTWjdaM3EwQldCYTlqdTFFSVRGRm9HVTNJOFUzZlNXQnhDYnRsc3J1dVZMcFVROHhMbVlPUnQ0bTY5c0paQjcrbnNOdlQ2MEtpeUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzAzODU4CWZpbGU6UGVucG9pbnQgU3RhZ2luZ194NjQuYXBwLnRhci5nego3QkRRbVJFS1dyQlphRHF6ajRtanhlSFpEV3JZSVJYN1FJZE5ucXVmYkRWSDZuQkk4UXVjOXVoYVpiQTIzaDczUFBrNUVBTS9VUVRuZ2p5czJYNVBCUT09Cg==",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.0-beta.2-staging/Penpoint.Staging_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2tVSE1rK2hHZ0pCK1hrMDVjbWtCOTlJd3RadUJBblZ5NFVOWUpVU2VHYkROb0VYMm1EK3pKbXRmbkxHbVhETjVxLzIyRTBzSmtoZ0tPa0R6dHlxTFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzAzODQ1CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjMuMC1iZXRhLjJfYW1kNjQuQXBwSW1hZ2UudGFyLmd6ClV2Z0FXY2xPVFIrRkVaeHh6RFBHeThmWlFkUlhWL1lhL3ViK1Zqalp0cW9qaTBMUkQ5NmVScEFIRTlWaFk3QThudjlETFp0a3I3dThKbjNhV3ZYd0JnPT0K",
+      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.0-beta.2-staging/Penpoint.Staging_1.3.0-beta.2_amd64.AppImage.tar.gz"
     }
   },
-  "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.3.0-beta.1.md"
+  "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.3.0-beta.2.md"
 }
