@@ -1,12 +1,12 @@
 {
-  "version": "1.3.5-beta.1",
-  "notes": "Staging beta 1 for testing B2 update path",
-  "pub_date": "2026-08-20T19:08:10.470Z",
+  "version": "1.3.5-beta.2",
+  "notes": "Staging beta 2 - B2 auto-update end-to-end test",
+  "pub_date": "2026-08-21T02:31:50.562Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3NUUHdRSFVXWXdnOGkrSjRyaGNKUGl0QkhHcnAwc040UU1CVWliL1JkTG5MYnJONWdCWmJoTTY1VXA5a2ZCVVo3RzBpZFNwSjQyY2N3c0w5WU16a2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjUyNzkxCWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjMuNS1iZXRhLjFfeDY0LXNldHVwLm5zaXMuemlwCmNLRkFFMmpQMHluckFVZ2QwTThMMkw2TGs1L1hpaExqZy81OGVQOWlheVZiMEsyTVA4ekI5bmpFcTE5OEV4TEwxVThkdDJmdDREZjk3cGtLVUVUMURRPT0K",
-      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-beta.1-staging/Penpoint.Staging_1.3.5-beta.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3NFTUlhNWZYemNqYVZDWmtXM3dIYWpzbktCTjdvdDgrc1lQaEVBS0FWZjZpNzBYWjEvQWR4UWNlMnJyRW5GVENHZVJYSUJ2OWpETUpKeVAwdmRtMVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mjc5NDY2CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjMuNS1iZXRhLjJfeDY0LXNldHVwLm5zaXMuemlwCmNHcW5mdm9CVHUrU3UxZnJBTUV5NW5XN2hOR1hkSVNlMlNYQkR4d2xqRXJ4eUpKZ2ZTdlBSOEdRWURqNGJsK2ZYekp2a2dubTB0RGYxRmpGQmN5d0FBPT0K",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-beta.2-staging/Penpoint.Staging_1.3.5-beta.2_x64-setup.nsis.zip"
     }
   },
-  "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.3.5-beta.1.md"
+  "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.3.5-beta.2.md"
 }
