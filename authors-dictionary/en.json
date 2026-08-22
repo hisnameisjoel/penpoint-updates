@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "language": "en",
   "words": [
     "sigil", "sigils",
@@ -10,6 +10,7 @@
     "spellcaster", "spellcasters",
     "mana",
     "homunculus", "homunculi",
-    "revenant", "revenants"
+    "revenant", "revenants",
+    "quenthyr"
   ]
 }
