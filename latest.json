@@ -1,28 +1,28 @@
 {
-  "version": "1.3.4",
-  "notes": "Manuscript comments, note pinning, export page setup, and auto-capitalize",
-  "pub_date": "2026-08-16T15:49:09.540Z",
+  "version": "1.3.5",
+  "notes": "Chapter Drafts (snapshot whole chapters), Authors Dictionary spellcheck, plus manuscript comment polish and fixes",
+  "pub_date": "2026-08-23T22:53:27.355Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2tmYkZKbWxub3RyT0tGS1ZQZFZXZHF3WFFXL1RQUldNN0JQSmQ1LzNxbjFKRjJpaFR5aVlpOTlpQlVibW5pTDNjVHU1cVRxamUvQWVBcGs4ZFpraXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODk1MjQzCWZpbGU6UGVucG9pbnRfMS4zLjRfeDY0LXNldHVwLm5zaXMuemlwCjBXV0JvTHhwOGs5OGJWc1lRV3paZTd3RDlQQjBGeENPLzVWbmVheUpqTTh4UE04Yklhak8zU1hSbE9kTUtTOGx5T2xBWWpnNVpmT1JndnpRRW91NEJRPT0K",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.4/Penpoint_1.3.4_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR25UNHNtSmZWSmhrN3dKR2FxWWtHaFNQbDFCdmczMFVYSm53Y0RjVHBwS2o2U1F2YjJiaWUyZWFHaGdOMjMxT0JERk5abnpNRklsQlV4VmU3ZVViV0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTI1NDk4CWZpbGU6UGVucG9pbnRfMS4zLjVfeDY0LXNldHVwLm5zaXMuemlwCnJMU0JLbDNxbWMxSEJDK2l0dDF6eFNiR05DTEpvdEhrV29PVGlGNlNzMmVVZVk4RGVvRVlkR3Q3UGpWSmtkNUlUTEd0dmxMRk1qZklSVXhkL2VyTURnPT0K",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5/Penpoint_1.3.5_x64-setup.nsis.zip"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3Q4dFRNSXEvckdmMldoOWdlTStjUEljNzFYL0RBaVpqQjlvcXlkbU1xUWh3d3p0Y0RHRTVkOW5wV2s2T08wUEFKbU1YdHZxUTNNVHZjTHZscmdMSHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODk1MzA5CWZpbGU6UGVucG9pbnRfMS4zLjRfYXJtNjQtc2V0dXAubnNpcy56aXAKeWtSTG5xeHJwZTAwQjVMT3VXekhaS1N5Y2tmeWVtc1JyMFNDZC9ETTVhdzFCNng1NHJNb1BTZ2VpSlFXYUpabGFLbXlUYWJSckNYVHo0SVJzbGdIRFE9PQo=",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.4/Penpoint_1.3.4_arm64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3ZyVFZxSFZ1eTg5ZlMwbmZDdWc4OHlYd0g0SEJsRllTTE04bHQ5QUFQWlBsWHg4MStHL2pMN0VVdmxsc21rV1dvZTZXWDFOKzRMYVoxZ1NJdGpBN1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTI1NDc2CWZpbGU6UGVucG9pbnRfMS4zLjVfYXJtNjQtc2V0dXAubnNpcy56aXAKcndxRnBSK2FKVDk4TjlJZVJRdEVrNnZTRWduR01OMnVrbEJmSnJiQzgyVlNhdUdKSU1oWkVYRjNjQzc5TXMxK0dEZ0pCMGhncUVCV0FISnIzV25HQXc9PQo=",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5/Penpoint_1.3.5_arm64-setup.nsis.zip"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR21aZkJSNlprTjNwSXZNZHpYUjRuc29HbVZRVGRtT1R0NkRnZ2FjY0JkaDc5bnE1YlVUdGZIaGNkVmVLWWc2dUpLYlJCU3dDYUIvN3RSdGNURW9XY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODk0MzcwCWZpbGU6UGVucG9pbnQuYXBwLnRhci5negptNHgrM1hWTU5mYitvZ3J4NXFJV1RvR2dhaFJ5SmdCbUpZM1NrTFkvekZudUlQMllyQ0c5aVlxMXY4SThaTnhWd0xNd2RwQWZLVTc2UmVvc3YrYnFEUT09Cg==",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.4/Penpoint.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2o1ZkJycmFNVDhqOThwLzk4L3lEdldrb0xDY3pIU1crQitremZWZ0lqcmN0eEl5Umplb29vMW8vMnVnM3BxbG1PWWdtWmdzNlFieS90MUhubXFFUGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTI0NDc4CWZpbGU6UGVucG9pbnQuYXBwLnRhci5negpmQmRXdzhnckVzNVhNSDFSUUVYdjRCak12RjNFSGU3TFVuQ0h3K2RqVHRWYWN5SktvK3JQUUtUNy9yWjlNS0lMS3l0M3BRNi9HRm96d2pEZm1jdEhBUT09Cg==",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5/Penpoint.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3NtMm9ueStDdXJ3YzdGbjFiV2J4RmdITzAyOGx4c3BqemF1eGt2Ry94Z2xpclErR2xSMkRBaDMzTlZaNmIzT1lYOUlobFJteGtZTXh4Y0RvK3A2L1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODk0MjczCWZpbGU6UGVucG9pbnRfeDY0LmFwcC50YXIuZ3oKR1B5bjFEM3BpeEFuTWZLTU9IZytNQmQ3a3RYTkRRV0VPQVU2TUJ1M1IyWm5yakx3d1Q0Ly84bFYxQVVoTEtkY1h6dnJTMWJ6dDBIQWFZUTFNNWJLQVE9PQo=",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.4/Penpoint_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3ZPd2Rlb3hNaW0xR3FYMWJ4ak5kWnBqMHhUTzdjMHlManZsY0F5Y3BaVjYvTDhrcEN3eGkzSTdTZjdsRmhVQ3NVYmhueUhqak4yTzF4N3BycEtsOWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTI0NjUyCWZpbGU6UGVucG9pbnRfeDY0LmFwcC50YXIuZ3oKWmpVc0Z4aGE2bDM5ZEU0dlNuVW1LbkhZVmwwRmFveG1MRU9VVSsvSkgva2xXMlJYOE1ITFovRDlTQVJrL0p2Um1nNVdxem9vNzc1cmQ3SktCaDlBREE9PQo=",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5/Penpoint_x64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2kvQzNFK1pjb0E0MmxlR1pFeVh0b2xOOGZDZXhROXpPek4yZFRRbG5sUFE5MlpzbmpHZXpOSlJ2Wk1jakkvK0lyVVMxOE92T3NpblVzSVVza0VsaWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODk0NDk5CWZpbGU6UGVucG9pbnRfMS4zLjRfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CkpWUS91eEJhbUNIMEdxTUoreDZuc3RSeGpxRWJQYU9XYXRwK1RMQy9ONCtuandEdUlBUDBaMkV1MVNQR1RZS1ZXdDhXT2V2QStFblZIZk5WalVyREN3PT0K",
-      "url": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.4/penpoint_1.3.4_amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR29oODBiOXNTYTBNQWlmbDB5dVUzN1lPTWFMbzlUWk1GVXJMRkNiRjdqMnVDM2Z3N2pEeHkydGRSN3ZFbEg3WjJoc3JJd29objB6Z1l1Wk9wbHk0c2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTI0NzAzCWZpbGU6UGVucG9pbnRfMS4zLjVfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CmJhaDdRTW9qQmlUc05YeTd0cmxyaG5NQ08rbFZzcElUY0dGVEJxZ3ZpOExQTmlxMVdrb2xBYlNaMUhYZUxRR0IrN0ZzTjhRa0pzc0VoVUtZRHF4Q0R3PT0K",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5/Penpoint_1.3.5_amd64.AppImage.tar.gz"
     }
   },
-  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.3.4.md"
+  "releaseNotesUrl": "https://announcements.penpoint.app/changelog/1.3.5.md"
 }
