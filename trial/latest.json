@@ -1,12 +1,35 @@
 {
-  "version": "1.3.2",
-  "pub_date": "2026-08-01T16:23:38.837Z",
+  "version": "1.3.5-nn.1",
+  "notes": "Novel November trial: free through December 1, 2026, or 14 days, whichever is longer.",
+  "pub_date": "2026-10-02T17:00:29.976Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3V3UXdCazdxNkx3WEN3NWRIaGxqZTBLYnlic3FYbWFyK0VRQjdGd0YrUWJGTEJuVnZxaTNFaCtOL0V2WWZOK2NnZDdDbXBWNDNYQi9YQXhoejdjTndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTU5MjgzCWZpbGU6UGVucG9pbnRfMS4zLjUtbm4uMV94NjQtc2V0dXAubnNpcy56aXAKTkNCNUdOUUJPN2FLUHdPVTByTG9hWnRoOXFnc3NrZmN6eWNUMm1OSllUWUxPU3M0STErdDE3YTgzK2Q2ZERzRFEyeEFMbU50enljQXltSWxhOVRmQWc9PQo=",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-nn.1/Penpoint-Trial_Penpoint_1.3.5-nn.1_x64-setup.nsis.zip"
+    },
+    "windows-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3UvUVc0UmRDNHZGcHBlL1pBeDZJMDJvU3BqNjJMbkE2Ymp3T0d6T0FleFl4QVFCQmgyb1JPaVdrOFEzd2FTYW11ZTBPU1k0MFpIemgxb1BYblp4YndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTU5MzQ3CWZpbGU6UGVucG9pbnRfMS4zLjUtbm4uMV9hcm02NC1zZXR1cC5uc2lzLnppcApGUW1mZ2JoTGQzRFZUcUdSMmNBZVZrT3hyc2U0bXVDa25SQWNQa0tqV01CNFpNdUNxZThxWGpjSUhhRllwOXVkczdGUzVleE9LK3ozbXNjUjBLaXdBdz09Cg==",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-nn.1/Penpoint-Trial_Penpoint_1.3.5-nn.1_arm64-setup.nsis.zip"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3NqQWtPSmtZSlZyQkdEWjNxWmFYWjB5SDEwU296WUMvU2NTNGxNY1Z1d2R6T0gwb2pzTHdrV0wzM1lXRWZUWW1sclgvVXE1V2lmKzAzZDgyNGE1VFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTYwMzYxCWZpbGU6UGVucG9pbnQuYXBwLnRhci5negpjOFhFTkZNY2tNbDNuOUlVRmNkTExLTmp4NTJMdjRoUHZnWkIrL0NmY0FVaXVzcExrK0NWNU5FZnFYR0U5ZDFsYjVIUXZ2M1FhQ2tGdTZTZ1V4OWhEdz09Cg==",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-nn.1/Penpoint-Trial_Penpoint.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR21hMjVwcGF0YWV5cUZlVHI3N0xoa0crK0gyU3ZkZGgzcFE1WjhrK0MzbW96SlVPS2RVUjFPNjhWQW5OU3BQUThKL01Eak5UZFNQQ0JFMHQ1ajN5dmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTYwMzU4CWZpbGU6UGVucG9pbnRfeDY0LmFwcC50YXIuZ3oKajc5N2dtaUlnajUyc1lCMk0xZjVBSFh5d2NQK1JxSVIwbmZaTjBCVkxvNFR1bk8xVXZtWlVENEtyMFNPOFNUeHRQY3lyUm5mYTc4VTBGQ3VsRjZVQkE9PQo=",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-nn.1/Penpoint-Trial_Penpoint_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3J1bDN6MWZ6cmdKOTRrTmFxbXJrOG9ndE5vSHZRNi93VzdUcExCODZVZjZFL1EwWWZ2TWpydXRCY1hxcUI4UXdQSm5yZ3N6ZkZWUWJpdUR3TXduL0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTU4NDU2CWZpbGU6UGVucG9pbnRfMS4zLjUtbm4uMV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKTndEc29mZ29POERMSEFobnErRzBsM2E0SXJYalV4dy91N2xxL2JlRFBnSXJnUFZwa1Y5dFBUMC8rSFQwU0xsZWtKcmJrQmdyTWdrTEhVTTM3cWlhQkE9PQo=",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-nn.1/Penpoint-Trial_Penpoint_1.3.5-nn.1_amd64.AppImage.tar.gz"
+    }
+  },
   "installers": {
-    "windows-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.2/Penpoint-Trial_Penpoint_1.3.2_x64-setup.exe",
-    "windows-aarch64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.2/Penpoint-Trial_Penpoint_1.3.2_arm64-setup.exe",
-    "darwin-aarch64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.2/Penpoint-Trial_Penpoint_1.3.2_aarch64.dmg",
-    "darwin-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.2/Penpoint-Trial_Penpoint_1.3.2_x64.dmg",
-    "linux-x86_64": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.2/Penpoint-Trial_penpoint_1.3.2_amd64.AppImage",
-    "linux-deb": "https://github.com/hisnameisjoel/penpoint-updates/releases/download/v1.3.2/Penpoint-Trial_penpoint_1.3.2_amd64.deb"
+    "windows-x86_64": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-nn.1/Penpoint-Trial_Penpoint_1.3.5-nn.1_x64-setup.exe",
+    "windows-aarch64": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-nn.1/Penpoint-Trial_Penpoint_1.3.5-nn.1_arm64-setup.exe",
+    "darwin-aarch64": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-nn.1/Penpoint-Trial_Penpoint_1.3.5-nn.1_aarch64.dmg",
+    "darwin-x86_64": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-nn.1/Penpoint-Trial_Penpoint_1.3.5-nn.1_x64.dmg",
+    "linux-x86_64": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-nn.1/Penpoint-Trial_Penpoint_1.3.5-nn.1_amd64.AppImage",
+    "linux-deb": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.5-nn.1/Penpoint-Trial_Penpoint_1.3.5-nn.1_amd64.deb"
   }
 }
