@@ -1,24 +1,24 @@
 {
-  "version": "1.3.6-beta.8",
-  "notes": "Staging beta 8 for testing",
-  "pub_date": "2026-10-13T01:02:06.295Z",
+  "version": "1.3.6-beta.9",
+  "notes": "Staging beta 9 for testing",
+  "pub_date": "2026-10-14T21:09:18.519Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2lhMkdQYncwMXJ2TGdrdk4vbGlyS0Vjc1FiZk43MWZqYWk4RVFlQUVVQ1dEKzBqQ29KeGdNNHU5NWtZaXVRYlA4THNSc3dpRnlkRU1wYXFySmZ3amdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODUzMjQyCWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjMuNi1iZXRhLjhfeDY0LXNldHVwLm5zaXMuemlwCjI1RW5EWC94OFBJakR5aER6RXQzRlo1N2NkS0Eva0V0MWJsUHRoaisyRVZKWWszd044OUltcCtUTjErazdNTTBvRmZsV3piTmJMM1liYy9lREtQYUR3PT0K",
-      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.6-beta.8-staging/Penpoint.Staging_1.3.6-beta.8_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR216Qy81MDFWdU9Vc3QxQmJtdVpnbWRXcGl1Ty9mMVQ2am1IOEgzSGl5ai90YnI2MHRPenBLQlNsWXZZbDFlVitiR0RPSzJ6cjdDWWRETC9waXVhMXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDEyMDA2CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjMuNi1iZXRhLjlfeDY0LXNldHVwLm5zaXMuemlwClJVQnE1Qmp4Mm91ZmNJclNoZlpUWXVrdmg2bFZ5TWhZMGxxclFDYjdYdlhoVGxqLytTbXk0bzJ3cDQxUzBkUXdqVlgvUDEyeDBQRXpnSXQvTEZyeUN3PT0K",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.6-beta.9-staging/Penpoint.Staging_1.3.6-beta.9_x64-setup.nsis.zip"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3BXbDlnU3VnUUdXaWZTMFpodDZhRWJoc3dGemZaaWE1dldhQUZyeUZKVmxWY2V2VEtUQUVWYnU4V1lGNkcxcDhuaDRKenh4b1FIOGR4OUtvWTNJSEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODUyMDA5CWZpbGU6UGVucG9pbnQgU3RhZ2luZy5hcHAudGFyLmd6Cng2eFdMdmgrbmcyR1dHN0ZpeG1rRktndlozcGYvb0IvVFhhU3ZndGlLUjVMbnphQXc2dGhMcW5PUFg3Q2Zibk5BUldHckU1cTk5TVVuZFFrMmVRZ0RnPT0K",
-      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.6-beta.8-staging/Penpoint.Staging.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2lhQ2FOSlk5TEQxVE5zNGtVTjkvUFZETVNWSHg3UGo1MTA3b1FMVjFOMTYxdnd6N0crZG9MdTNvbXl2bGtPeW5NQi9qKzBPTGtuYTlFOUVDOTMwTUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDEwNjQxCWZpbGU6UGVucG9pbnQgU3RhZ2luZy5hcHAudGFyLmd6CnhBVlhpRkF5Rno4b2gxcVYxTy9SS0c3U2M4L2Jiem1vdjMrREIzN3BPcVJkMVYwdWtuRU9BdDB1dDc1aTFDZEhqcG5rWVNoRnkvZFE3eW83dTdVR0F3PT0K",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.6-beta.9-staging/Penpoint.Staging.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2t0VkVzMXFDWlRzUlpjWXNYYUhSR3pKaVFFSndRZDZieHJxbEt0dng3MFBJRUZZNFlBNEdTRHBjVitEejdRbHdCOGhIbkYwSXhFWFRORnQrYjhzc0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODUxOTkzCWZpbGU6UGVucG9pbnQgU3RhZ2luZ194NjQuYXBwLnRhci5negpETTlqWXVwYnV6b3U4aWFVNWtJRE1kcGFKSXhqcmZ2bnJHeWREU3lndjdQc054QUhhNTJsZVJBbmlFRk9XeC81VUEwUlBrRzRSa2cxV0lqRDQ1NGtCQT09Cg==",
-      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.6-beta.8-staging/Penpoint.Staging_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR2lqdVlQbjZrOC91NFcraDNXVXd1VlpVUVlZcXlESllHUmxScTA0VG41NGFjWjU1R0wxS2J1cnQvQlVqbWV3RmZleHpSYkpxVytGTGVlcmRQU1QxOHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDEwNTY2CWZpbGU6UGVucG9pbnQgU3RhZ2luZ194NjQuYXBwLnRhci5negpGUlNsaHZQTEJRZDlEK2M5WVJVdWZzSkYwSzRMOUhyZGtuM29XSFpPK0l4SnI0ekVNa05GaldDbWdieGM0R3lNcWNiN3V5ak44ZFQwRWJNVm80akRDdz09Cg==",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.6-beta.9-staging/Penpoint.Staging_x64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3U0OUxHMkJwSFhCNEY4MElxNVRzdkVqbVFqR1ZqWUxJT0QzbU5LNXlCSGZGVFozUlpwMjRLRU8xM2N6UnNrZkVNOERrYnNUWEJwNVNmVWJ3OWdLbndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODUyNjQ2CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjMuNi1iZXRhLjhfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CmI4S25xOENJZzAxalBVbzhvWm5CVGxhc2RIYnV3ZERqdG9VaTBsRHFIeDFDRFpybTV2R0hqVDNUR0FMUjk4NWNHVTJNY21QVnJ2dFVZNG5iSXhyMER3PT0K",
-      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.6-beta.8-staging/Penpoint.Staging_1.3.6-beta.8_amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXBoRDl0dWhDR3VYSmdQZVlsMjlqYkdZaVlsSENvNGtmL0s0cG1ZNWRrWkFITGpOODdkdnZ4d0dSYmpndVMvdGs3Mml4bjFRRzd6Y3dSYUVSUkVLTzlZdllXOEVEMUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDExMTQ0CWZpbGU6UGVucG9pbnQgU3RhZ2luZ18xLjMuNi1iZXRhLjlfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Ckwyb1lHZ1JpcmtucWkxb2xqYSt6ZlQyL2FXcVNNK3RCNWlNNDZFbUI4ZmN2VEJ2dmo5YXBqWTNWS2xaNHZsSXhxR3BldlUrRjBHS2ZIL0Nld2IvRUF3PT0K",
+      "url": "https://f003.backblazeb2.com/file/penpoint-releases/v1.3.6-beta.9-staging/Penpoint.Staging_1.3.6-beta.9_amd64.AppImage.tar.gz"
     }
   },
-  "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.3.6-beta.8.md"
+  "releaseNotesUrl": "https://announcements.penpoint.app/staging/changelog/1.3.6-beta.9.md"
 }
